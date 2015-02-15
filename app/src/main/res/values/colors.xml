@@ -1,0 +1,22 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="darg_grey">#212121</color>
+    <color name="grey_700">#616161</color>
+
+    <color name="start_background">#ba68c8</color>
+    <color name="start_text">#eeeeee</color>
+
+    <color name="step_1_background">#9c27b0</color>
+    <color name="step_1_text">#eeeeee</color>
+
+    <color name="step_2_background">#7b1fa2</color>
+    <color name="step_2_text">#eeeeee</color>
+
+    <color name="step_3_background">#6a1b9a</color>
+    <color name="step_3_text">#eeeeee</color>
+
+    <color name="end_background">#4a148c</color>
+    <color name="end_text">#eeeeee</color>
+
+</resources>

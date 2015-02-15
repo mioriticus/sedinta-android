@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SEDINTA TERAPIE</string>
+    <string name="lbl_start">START</string>
+    <string name="lbl_stop">STOP</string>
+    <string name="lbl_pause">PAUZA</string>
+</resources>
